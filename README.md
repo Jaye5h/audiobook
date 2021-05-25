@@ -1,5 +1,3 @@
-### audiobook
-read any audio book using 12 lines of python
 
 ### Installation
 To read PDF file using Python
